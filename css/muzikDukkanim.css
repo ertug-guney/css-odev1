@@ -1,0 +1,33 @@
+.center {
+    text-align: center;
+}
+h1 {
+    color: rgb(226, 33, 33);
+    font-size: 30px;
+    text-align: center;
+}
+
+.purple {
+    color: rgb(164, 80, 164);
+}
+
+.fs-20 {
+    font-size: 20px;
+}
+
+.list {
+    list-style-position: inside
+}
+
+h3 {
+    color: rgb(225, 203, 42);
+    font-size: 16;
+}
+
+.resim {
+    width: 300px;
+}
+
+.left {
+    text-align: left;
+}
